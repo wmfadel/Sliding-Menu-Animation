@@ -2,6 +2,14 @@
 
 A new Flutter application.
 
+Sliding menu animation in flutter
+* Scale Animation
+* Sliding animation
+* Animated Position
+
+<img src=https://github.com/wmfadel/Sliding-Menu-Animation/blob/master/screenshot/Screenshot_1557872161.png width="400"/>
+<img src=https://github.com/wmfadel/Sliding-Menu-Animation/blob/master/screenshot/untitled.gif width="400"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
